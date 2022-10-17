@@ -12,7 +12,7 @@ def main():
     # Get the users input for a number 0 to 9
     user_num = int(input("Enter a number from 0 to 9: "))
 
-    # Gets a random number from 0 to 9
+    # Generates a random number from 0 to 9
     random_number = random.randint(0, 9)
 
     # checks if user input is equal to random number
